@@ -1,5 +1,5 @@
 package learn
 
 fun main() {
-    println("Hello World!")
+    println("Hello Dick!")
 }
